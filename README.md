@@ -4,7 +4,7 @@ This repository contains supplementary materials for:
 
 **Theory of Resonance – Part II: Phase Dynamics and Variational Structure**  
 Author: Yu Kanda (2025)  
-Preprint: https://doi.org/10.5281/zenodo.XXXXXXX
+Preprint: https://doi.org/10.5281/zenodo.15519091
 
 ---
 
