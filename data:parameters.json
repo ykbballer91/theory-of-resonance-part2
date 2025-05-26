@@ -1,0 +1,8 @@
+{
+  "omega_0": 0.5,
+  "r": 2.0,
+  "alpha": 1.5,
+  "num_terms": 6,
+  "eta_strength": 0.3,
+  "phi_noise": true
+}
